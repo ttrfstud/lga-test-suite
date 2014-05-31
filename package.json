@@ -1,0 +1,19 @@
+{
+  "name": "lga-test-suite",
+  "version": "0.0.0",
+  "description": "testing lga implementation from outside",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttrfstud/lga-test-suite"
+  },
+  "bugs": {
+    "url": "https://github.com/ttrfstud/lga-test-suite/issues"
+  },
+  "dependencies": {
+    "lga": "0.0.0"
+  },
+  "devDependencies": {
+    "taptap": "0.0.3"
+  }
+}
